@@ -1,17 +1,17 @@
 # Vue知识体系
-前端知识体系大合集 - 你要的都在这里
+前端知识体系大合集 - 你要的框架、类库、工具集都在这里
 
 > 网页版更直观:[前端视界-导航](https://www.fe-vision.cn/nav)
 
 ## 全家桶
-[Vite](https://github.com/vitejs/vite): 69.5k,新一代前端构建工具，可以快速搭建 Vue.js 应用，且具备快速冷启动、热更新等优点
-[Vue CLI](https://github.com/vuejs/vue-cli): 29.8k,官方提供的脚手架工具，用于快速创建和管理 Vue.js 项目
-[Vuex](https://github.com/vuejs/vuex): 28.4k,状态管理库，用于管理应用中的全局状态
-[Vueuse](https://github.com/vueuse/vueuse): 20.3k,实用工具库，旨在帮助开发者在项目中避免重复的逻辑，提高开发效率  
-[Vue Router](https://github.com/vuejs/router): 19k,用于构建单页应用（SPA）的路由管理库 
-[Pinia](https://github.com/vuejs/pinia): 13.3k,新一代的状态管理库，作为 Vuex 的轻量替代方案  
-[Create-vue](https://github.com/vuejs/create-vue): 3.6k,Vue3 的专用脚手架，使用vite 创建Vue3 的项目  
-[Vue DevTools](https://github.com/vuejs/devtools): 1.8k,浏览器扩展插件，用于调试和检查 Vue.js 应用程序  
+[Vite](https://github.com/vitejs/vite): 69.5k,新一代前端构建工具，可以快速搭建 Vue.js 应用，且具备快速冷启动、热更新等优点          
+[Vue CLI](https://github.com/vuejs/vue-cli): 29.8k,官方提供的脚手架工具，用于快速创建和管理 Vue.js 项目         
+[Vuex](https://github.com/vuejs/vuex): 28.4k,状态管理库，用于管理应用中的全局状态         
+[Vueuse](https://github.com/vueuse/vueuse): 20.3k,实用工具库，旨在帮助开发者在项目中避免重复的逻辑，提高开发效率           
+[Vue Router](https://github.com/vuejs/router): 19k,用于构建单页应用（SPA）的路由管理库          
+[Pinia](https://github.com/vuejs/pinia): 13.3k,新一代的状态管理库，作为 Vuex 的轻量替代方案           
+[Create-vue](https://github.com/vuejs/create-vue): 3.6k,Vue3 的专用脚手架，使用vite 创建Vue3 的项目           
+[Vue DevTools](https://github.com/vuejs/devtools): 1.8k,浏览器扩展插件，用于调试和检查 Vue.js 应用程序           
 
 ## Web UI框架
 [Element UI](https://github.com/ElemeFE/element): 54.1k,专为Web开发设计的桌面UI工具（vue2.0）  
@@ -61,8 +61,8 @@
 
 ## 表格/数据网格组件
 [tanstack,-table](https://github.com/TanStack/table): 25.4k,支持Vue3的用于构建强大表格和数据网格的无头 UI  
-[handsontable](https://github.com/handsontable/handsontable): 20.2k, 电子表格(excel)插件 
-[ag-grid](https://github.com/ag-grid/ag-grid): 13.1k,支持Vue3的功能齐全且高度可定制的JavaScript 数据网格  
+[handsontable](https://github.com/handsontable/handsontable): 20.2k, 电子表格(excel)插件       
+[ag-grid](https://github.com/ag-grid/ag-grid): 13.1k,支持Vue3的功能齐全且高度可定制的JavaScript 数据网格       
 [vxe-table](https://github.com/x-extends/vxe-table): 7.8k,支持vue2和Vue3的表格组件，能实现大量级数据加载和各种复杂的表格功能  
 [vue-easytable](https://github.com/huangshuwei/vue-easytable): 3.7k,基于 Vue 2 的强大表格组件  
 
@@ -83,8 +83,8 @@
 ## 可视化组件
 [vue-echarts](https://github.com/ecomfe/vue-echarts): 9.6k,支持Vue2和Vue3的 ECharts 组件  
 [v-charts](https://github.com/ElemeFE/v-charts): 6.8k,基于 Vue2 和 Echarts 的图表组件  
-[vue-chartjs](https://github.com/apertureless/vue-chartjs): 5.5k,Chart.js 的 Vue 封装组件 
-[vue-flow](https://github.com/bcakmakoglu/vue-flow): 4.2k,基于Vue3 和D3.js 的可视化图表库，可以用于构建各种类型的流程图、组织结构图、网络拓扑图等  
+[vue-chartjs](https://github.com/apertureless/vue-chartjs): 5.5k,Chart.js 的 Vue 封装组件         
+[vue-flow](https://github.com/bcakmakoglu/vue-flow): 4.2k,基于Vue3 和D3.js 的可视化图表库，可以用于构建各种类型的流程图、组织结构图、网络拓扑图等      
 
 ## 文件上传组件
 [filepond](https://github.com/pqina/filepond): 15k,灵活、可扩展的文件上传库  
@@ -96,16 +96,16 @@
 [tiptap](https://github.com/ueberdosis/tiptap): 28.1k,支持vue2和vue3的无头富文本编辑器  
 [wangEditor](https://github.com/wangeditor-team/wangEditor): 17.7k,支持Vue2和Vue3的富文本编辑器  
 [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor): 7.4k,基于Vue2的富文本编辑器  
-[mavonEditor](https://github.com/hinesboy/mavonEditor): 6.4k, 支持Vue2和Vue3的markdown编辑器 
-[bytemd](https://github.com/pd4d10/bytemd): 4.3k, 支持Vue2和Vue3的掘金同款Markdown 编辑器 
-[vue-mark,down](https://github.com/miaolz123/vue-markdown): 1.9k,Vue2使用marked和highlight.js开发的一款markdown编辑器  
+[mavonEditor](https://github.com/hinesboy/mavonEditor): 6.4k, 支持Vue2和Vue3的markdown编辑器       
+[bytemd](https://github.com/pd4d10/bytemd): 4.3k, 支持Vue2和Vue3的掘金同款Markdown 编辑器       
+[vue-mark,down](https://github.com/miaolz123/vue-markdown): 1.9k,Vue2使用marked和highlight.js开发的一款markdown编辑器      
 
 ## 无限滚动组件
 [vue-virtual-scroller](https://github.com/Ak,ryum/vue-virtual-scroller): 9.4k,支持vue3的高度可定制的虚拟滚动列表插件  
-[vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list): 4.4k,支持大数据的 Vue2 组件，使用虚拟滚动列表 
-[vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): 2.9k,基于Vue2的无限滚动组件  
-[vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): 2.7k,Vue2设计的无限滚动组件，适用于构建需要滚动加载更多内容的应用场景，如列表、网格等  
-[vue-scroller](https://github.com/wangdahoo/vue-scroller): 1.8k, Vue2的无限内容循环组件，支持“下拉刷新"、“无限加载”和“滚动贴合”功能 
+[vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list): 4.4k,支持大数据的 Vue2 组件，使用虚拟滚动列表       
+[vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll): 2.9k,基于Vue2的无限滚动组件       
+[vue-infinite-loading](https://github.com/PeachScript/vue-infinite-loading): 2.7k,Vue2设计的无限滚动组件，适用于构建需要滚动加载更多内容的应用场景，如列表、网格等        
+[vue-scroller](https://github.com/wangdahoo/vue-scroller): 1.8k, Vue2的无限内容循环组件，支持“下拉刷新"、“无限加载”和“滚动贴合”功能        
 [virtua](https://github.com/inokawa/virtua): 1.8k,支持Vue3的无需配置、轻量快速的虚拟列表组件
 
 ## 表单组件
@@ -121,26 +121,26 @@
 
 ## 拖放组件
 [Vue Draggable](https://github.com/SortableJS/Vue.Draggable): 20k,支持vue2的拖拽排序插件  
-[vue.draggable.next](https://github.com/SortableJS/vue.draggable.next): 4k, 支持vue3的拖拽排序插件 
-[vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable): 3.3k,支持Vue3的可调整大小和可拖动元素的组件，支持组件之间的冲突检测和组件对齐  
-[vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus): 2.9k, 支持Vue 3 和Vue 2 的拖拽组件库，基于Sortablejs，提供高度兼容性和灵活性，适用于多种拖拽场景 
-[vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize): 2.2k,支持vue2和vue3的用于可调整大小和可拖动元素插件  
+[vue.draggable.next](https://github.com/SortableJS/vue.draggable.next): 4k, 支持vue3的拖拽排序插件          
+[vue-draggable-resizable](https://github.com/mauricius/vue-draggable-resizable): 3.3k,支持Vue3的可调整大小和可拖动元素的组件，支持组件之间的冲突检测和组件对齐         
+[vue-draggable-plus](https://github.com/Alfred-Skyblue/vue-draggable-plus): 2.9k, 支持Vue 3 和Vue 2 的拖拽组件库，基于Sortablejs，提供高度兼容性和灵活性，适用于多种拖拽场景        
+[vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize): 2.2k,支持vue2和vue3的用于可调整大小和可拖动元素插件       
 [vue-smooth-dnd](https://github.com/kutlugsahin/vue-smooth-dnd): 1.7k,支持vue2的快速、轻量级的拖放、可排序的库，封装了smooth-dnd 库
 
 ## 弹窗通知组件
-[vue-toastification](https://github.com/Maronato/vue-toastification): 3.1k, 支持Vue2和Vue3的轻量、简洁、美观的提示框 
+[vue-toastification](https://github.com/Maronato/vue-toastification): 3.1k, 支持Vue2和Vue3的轻量、简洁、美观的提示框         
 [vue-notification](https://github.com/euvl/vue-notification): 2.4k,用于 Vue2 的通知插件，使用 Velocity 动画效果
 
 ## 日历组件
-[v-calendar](https://github.com/nathanreyes/v-calendar): 4.4k, 基于Vue3的日期时间选择器，适用于移动设备 
-[vuejs-datepick,er](https://github.com/charliekassel/vuejs-datepicker): 2.6k, 用于Vue2的轻量级日期选择器组件 
-[vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar): 1.5k, 基于 Vue2 的 FullCalendar 日历组件，管理日程事件 
-[vue2-datepick,er](https://github.com/mengxiong10/vue2-datepicker): 1.5k,用于 Vue2 的美观日期/时间选择器组件
+[v-calendar](https://github.com/nathanreyes/v-calendar): 4.4k, 基于Vue3的日期时间选择器，适用于移动设备        
+[vuejs-datepick,er](https://github.com/charliekassel/vuejs-datepicker): 2.6k, 用于Vue2的轻量级日期选择器组件        
+[vue-fullcalendar](https://github.com/Wanderxx/vue-fullcalendar): 1.5k, 基于 Vue2 的 FullCalendar 日历组件，管理日程事件        
+[vue2-datepick,er](https://github.com/mengxiong10/vue2-datepicker): 1.5k,用于 Vue2 的美观日期/时间选择器组件       
 
 ## 地图组件
 [vue-baidu-map](https://github.com/Dafrok/vue-baidu-map): 2.4k,基于Vue2得百度地图组件  
 [Vue2Leaflet](https://github.com/vue-leaflet/Vue2Leaflet): 2k,用于在Vue2应用中集成leaflet地图  
-[vue-google-maps](https://github.com/xkjyeah/vue-google-maps): 1.9k, 基于Vue2得谷歌地图组件 
+[vue-google-maps](https://github.com/xkjyeah/vue-google-maps): 1.9k, 基于Vue2得谷歌地图组件       
 [vue-cesium](https://github.com/zouyaoji/vue-cesium): 1.6k,基于Vue3得WebGL的3D地图引擎
 
 ## 下拉选择组件
@@ -157,20 +157,20 @@
 [slidev](https://github.com/slidevjs/slidev): 34k,基于Vue3和Vite的幻灯片制作和演示工具
 
 ## 3D图形组件
-[trois](https://github.com/troisjs/trois): 4.2k, 结合了ThreeJS、Vue3和ViteJS的前端3D图形库 
-[vue-3d-model](https://github.com/hujiulong/vue-3d-model): 2.5k,基于vue3的用来展示三维模型的Vue组件，用最简单的方式在网页中展示三维模型，解决模型视角控制、鼠标事件等一系列问题 
+[trois](https://github.com/troisjs/trois): 4.2k, 结合了ThreeJS、Vue3和ViteJS的前端3D图形库         
+[vue-3d-model](https://github.com/hujiulong/vue-3d-model): 2.5k,基于vue3的用来展示三维模型的Vue组件，用最简单的方式在网页中展示三维模型，解决模型视角控制、鼠标事件等一系列问题          
 [tres](https://github.com/tresjs/tres): 2.3k,结合了ThreeJS、Vue2的前端3D图形库
 
 ## 服务端
-[nuxt](https://github.com/nuxt/nuxt): 55.5k, SSR服务端渲染应用框架 
+[nuxt](https://github.com/nuxt/nuxt): 55.5k, SSR服务端渲染应用框架         
 [express-vue](https://github.com/express-vue/express-vue): 1.3k,一个用于在 Express.js 中集成 Vue.js 的库
 
 ## 实用UI组件
 [vue-lazyload](https://github.com/hilongjw/vue-lazyload): 8k,支持vue2和vue3的懒加载插件  
 [vue-js-modal](https://github.com/euvl/vue-js-modal): 4.4k,支持vue2的模态框组件  
-[vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list): 4.3k, 支持vue2的高性能虚拟滚动列表插件 
-[vue-color](https://github.com/xiaokaike/vue-color): 2.5k,支持vue2的颜色选择器  
-[vue-pdf](https://github.com/FranckFreiburger/vue-pdf): 2.2k,支持vue2的pdf查看器  
+[vue-virtual-scroll-list](https://github.com/tangbc/vue-virtual-scroll-list): 4.3k, 支持vue2的高性能虚拟滚动列表插件          
+[vue-color](https://github.com/xiaokaike/vue-color): 2.5k,支持vue2的颜色选择器        
+[vue-pdf](https://github.com/FranckFreiburger/vue-pdf): 2.2k,支持vue2的pdf查看器        
 [vue-progressbar](https://github.com/hilongjw/vue-progressbar): 1.5k,支持vue2的轻量级的进度条插件  
 [emoji-mart-vue](https://github.com/jm-david/emoji-mart-vue): 604,支持vue3的emoji插件
 
@@ -179,6 +179,6 @@
 [Vitest](https://github.com/vitest-dev/vitest): 13.4k,专为 Vue.js 应用程序量身定制的功能丰富的 JavaScript 测试框架  
 [vue-i18n](https://github.com/kazupon/vue-i18n): 7.3k,支持vue2的Composition API插件  
 [composition-api](https://github.com/vuejs/composition-api): 4.2k,管理 Vue.js 应用的 meta 信息（如 SEO 优化）  
-[Vue Meta](https://github.com/nuxt/vue-meta): 4.1k, 国际化工具，用于管理多语言应用 
-[Vue Axios](https://github.com/imcvampire/vue-axios): 2k,基于 axios 的 HTTP 客户端，用于与后台服务器通信  
+[Vue Meta](https://github.com/nuxt/vue-meta): 4.1k, 国际化工具，用于管理多语言应用            
+[Vue Axios](https://github.com/imcvampire/vue-axios): 2k,基于 axios 的 HTTP 客户端，用于与后台服务器通信          
 [vue-clipboard2](https://github.com/Inndy/vue-clipboard2): 1.8k,支持vue2的剪贴板插件
