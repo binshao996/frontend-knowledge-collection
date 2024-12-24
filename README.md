@@ -2,7 +2,7 @@
 前端知识体系大合集 - 你要的框架、类库、工具集都在这里
 
 > 网页版更直观:[前端视界-导航](https://www.fe-vision.cn/nav)
-[](./public/qdsj.png)
+![Image](./public/qdsj.png)
 
 ## [Vue知识体系全集](./Vue知识体系/README.md)        
 ## [React知识体系全集](./React知识体系/README.md)
